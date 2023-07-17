@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: swastik2000/kubedeploy:18
+      - image: swastik2000/kubedeploy:19
         name: flaskdemo
         resources: {}
 status: {}
